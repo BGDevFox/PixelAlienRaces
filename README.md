@@ -38,6 +38,6 @@ Strength (1-100)
 | Healing Factor Power | Wounds will heal at an advanced rate, making you nearly unkillable. |
 | Self-Multiplication Power | The ability to create multiple versions of yourself at once. |
 | Item-Duplication Power | The ability to create multiples of an object of one's choosing. |
-| Telekenesis Power | Move objects and people with your mind. |
+| Telekinesis Power | Move objects and people with your mind. |
 | Light Manipulation Power | The ability to control visible light. |
 | Sonic Scream Power | Emitting a powerful sonic boom from the vocal cords. |
