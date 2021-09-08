@@ -41,3 +41,5 @@ Strength (1-100)
 | Telekinesis Power | Move objects and people with your mind. |
 | Light Manipulation Power | The ability to control visible light. |
 | Sonic Scream Power | Emitting a powerful sonic boom from the vocal cords. |
+
+[NFT Project Here!](https://opensea.io/collection/pixelalienraces)
