@@ -31,22 +31,6 @@ Strength (1-100)
 
 > Note: `Unique Alien races have a special ability.`.
 
-
-| Special Ability | Description |
-| ------ | ------ |
-| Phasing | The ability to walk through solid objects. |
-| Substance Mimicry | The ability to mimic anything you touch. |
-| Understand All Languages | The ability to comprehend any and all languages. |
-| Reactive Evolution | The ability to instantly adapt to any environment. |
-| Reality Warping | Allows the bearer to change reality as they see fit. |
-| Healing Factor | Wounds will heal at an advanced rate, making you nearly unkillable. |
-| Self-Multiplication | The ability to create multiple versions of yourself at once. |
-| Item-Duplication | The ability to create multiples of an object of one's choosing. |
-| Telekinesis | Move objects and people with your mind. |
-| Light Manipulation | The ability to control visible light. |
-| Sonic Scream | Emitting a powerful sonic boom from the vocal cords. |
-
-
 ### Alien portraits info
 
 | #    | Galaxy              | Name             | Gender | Rarity | Intelligence | Speed | Strength | Special Ability                                                                       |
@@ -134,22 +118,37 @@ Strength (1-100)
 | #81  | Nemou Lyrae         | Apiscingull      | F      | 3      | 91           | 17    | 76       |                                                                                       |
 | #82  | Thettau Lyrae       | Iuctusobt        | M      | 3      | 54           | 88    | 63       |                                                                                       |
 | #83  | Sagittya Hyperion   | Velquam          | F      | 4      | 73           | 90    | 80       |                                                                                       |
-| #84  | Bull's Iri          | Habitorbyx       | NA     | 5      | 45           | 89    | 87       | Phasing: The ability to walk through solid objects.                                   |
+| #84  | Bull's Iri          | Habitorbyx       | NA     | 5      | 45           | 89    | 87       | Phasing                                  |
 | #85  | VUW 77H             | Elifendc         | M      | 4      | 37           | 93    | 89       |                                                                                       |
-| #86  | Kentaurus Galax     | Nekemorbi        | F      | 5      | 94           | 93    | 5        | Substance Mimicry: The ability to mimic anything you touch.                           |
-| #87  | Lilypad Nebul       | Iaculacus        | NA     | 5      | 92           | 1     | 96       | Understand All Languages: The ability to comprehend any and all languages.            |
-| #88  | Alcyoneus Alcu      | Adipicigelit     | M      | 5      | 71           | 90    | 88       | Reactive Evolution: The ability to instantly adapt to any environment.                |
+| #86  | Kentaurus Galax     | Nekemorbi        | F      | 5      | 94           | 93    | 5        | Substance Mimicry                           |
+| #87  | Lilypad Nebul       | Iaculacus        | NA     | 5      | 92           | 1     | 96       | Understand All Languages            |
+| #88  | Alcyoneus Alcu      | Adipicigelit     | M      | 5      | 71           | 90    | 88       | Reactive Evolution               |
 | #89  | Nemou Lyrae         | Nibhdonc         | F      | 4      | 93           | 86    | 34       |                                                                                       |
-| #90  | Coconut Galax       | Acfalcy          | NA     | 5      | 98           | 55    | 74       | Reality Warping: Allows the bearer to change reality as they see fit.                 |
+| #90  | Coconut Galax       | Acfalcy          | NA     | 5      | 98           | 55    | 74       | Reality Warping                 |
 | #91  | Draconnys Cloud     | Sapienrra        | F      | 4      | 69           | 96    | 77       |                                                                                       |
-| #92  | Lemonious Galax     | Sapienuc         | NA     | 5      | 90           | 78    | 86       | Healing Factor: Wounds will heal at an advanced rate, making you nearly unkillable.   |
-| #93  | VUW 77H             | Mollipha         | F      | 5      | 49           | 91    | 85       | Self-Multiplication: The ability to create multiple versions of yourself at once.<br> |
-| #94  | IW-81               | Fuscegiat        | NA     | 5      | 81           | 80    | 98       | Item-Duplication: The ability to create multiples of an object of one's choosing.     |
-| #95  | Aquila Miriandynaus | Eusemy           | NA     | 5      | 63           | 85    | 93       | Telekinesis: Move objects and people with your mind.                                  |
-| #96  | IW-81               | Ametrisus        | NA     | 5      | 33           | 90    | 91       | Light Manipulation: The ability to control visible light.                             |
-| #97  | Zephyrus Nebul      | Ornargee         | NA     | 5      | 86           | 88    | 64       | Sonic Scream: Emitting a powerful sonic boom from the vocal cords.                    |
+| #92  | Lemonious Galax     | Sapienuc         | NA     | 5      | 90           | 78    | 86       | Healing Factor   |
+| #93  | VUW 77H             | Mollipha         | F      | 5      | 49           | 91    | 85       | Self-Multiplication |
+| #94  | IW-81               | Fuscegiat        | NA     | 5      | 81           | 80    | 98       | Item-Duplication     |
+| #95  | Aquila Miriandynaus | Eusemy           | NA     | 5      | 63           | 85    | 93       | Telekinesis                                 |
+| #96  | IW-81               | Ametrisus        | NA     | 5      | 33           | 90    | 91       | Light Manipulation                             |
+| #97  | Zephyrus Nebul      | Ornargee         | NA     | 5      | 86           | 88    | 64       | Sonic Scream                    |
 | #98  | Treeford Galax      | Egetmet          | NA     | 3      | 23           | 61    | 54       |                                                                                       |
 | #99  | Ursax Borysthenis   | Nonfeugiat       | M      | 2      | 39           | 55    | 22       |                                                                                       |
 | #100 | Lemonious Galax     | Venennatel       | M      | 2      | 25           | 53    | 23       |                                                                                       |
+
+
+| Special Ability | Description |
+| ------ | ------ |
+| Phasing | The ability to walk through solid objects. |
+| Substance Mimicry | The ability to mimic anything you touch. |
+| Understand All Languages | The ability to comprehend any and all languages. |
+| Reactive Evolution | The ability to instantly adapt to any environment. |
+| Reality Warping | Allows the bearer to change reality as they see fit. |
+| Healing Factor | Wounds will heal at an advanced rate, making you nearly unkillable. |
+| Self-Multiplication | The ability to create multiple versions of yourself at once. |
+| Item-Duplication | The ability to create multiples of an object of one's choosing. |
+| Telekinesis | Move objects and people with your mind. |
+| Light Manipulation | The ability to control visible light. |
+| Sonic Scream | Emitting a powerful sonic boom from the vocal cords. |
 
 [NFT Project Here!](https://opensea.io/collection/pixelalienraces)
