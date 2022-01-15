@@ -1,6 +1,6 @@
 ## [PixelAlienRaces](https://opensea.io/collection/pixelalienraces)
 
-This Collection comes from other worlds! 👽PixelAlienRaces is a Collection of 100 unique, randomly generated Alien portraits living in the NFT-Universe of the Ethereum Blockchain. One NFT project that brings with the idea of showing us a portrait of a few different aliens portrait races in the vast universe in pixels, this idea appeared based on the multiverse theory, and when observing that the universe is huge and can have many civilizations as many movies, series and stories have shown us.
+This Collection comes from other worlds! 👽PixelAlienRaces is a Collection of 100 unique, randomly generated Alien portraits living in the NFT-Universe of the Polygon Blockchain. One NFT project that brings with the idea of showing us a portrait of a few different aliens portrait races in the vast universe in pixels, this idea appeared based on the multiverse theory, and when observing that the universe is huge and can have many civilizations as many movies, series and stories have shown us.
 
 Every Alien race has its own info: 
 - Galaxy what the Alien race belongs to.
