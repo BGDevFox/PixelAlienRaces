@@ -21,6 +21,8 @@ Every Alien race has its own info:
 5. Unique.
 ```
 
+> Note: `Unique Alien races have a special ability.`.
+
 ### Stats
 
 ```sh
@@ -29,7 +31,6 @@ Speed (1-100)
 Strength (1-100)
 ```
 
-> Note: `Unique Alien races have a special ability.`.
 
 ### Alien portraits info
 
@@ -136,6 +137,7 @@ Strength (1-100)
 | #99  | Ursax Borysthenis   | Nonfeugiat       | M      | 2      | 39           | 55    | 22       |                                                                                       |
 | #100 | Lemonious Galax     | Venennatel       | M      | 2      | 25           | 53    | 23       |                                                                                       |
 
+### Special Abilities
 
 | Special Ability | Description |
 | ------ | ------ |
