@@ -42,6 +42,8 @@ Strength (1-100)
 | Light Manipulation | The ability to control visible light. |
 | Sonic Scream | Emitting a powerful sonic boom from the vocal cords. |
 
+### Aliens info
+
 | #    | Galaxy              | Name             | Gender | Rarity | Intelligence | Speed | Strength | Special Ability                                                                       |
 | ---- | ------------------- | ---------------- | ------ | ------ | ------------ | ----- | -------- | ------------------------------------------------------------------------------------- |
 | #1   | Treeford Galax      | Diamellentek     | M      | 2      | 57           | 35    | 66       |                                                                                       |
