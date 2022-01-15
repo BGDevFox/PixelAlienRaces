@@ -6,6 +6,8 @@ This Collection comes from other worlds! 👽PixelAlienRaces is a Collection of 
 
 https://twitter.com/DoePepito
 
+### Proofs of the donation will be added here too.
+
 Every Alien race has its own info: 
 - Galaxy what the Alien race belongs to.
 - Name of the Alien race.
